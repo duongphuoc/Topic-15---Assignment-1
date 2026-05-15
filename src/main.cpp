@@ -3,9 +3,10 @@
 
 int main()
 {
-    double myBalance = 1000.0;
+    //Khởi tạo số tiền ban đầu
+    double myBalance = 1000000000;
 
-    std::cout << "--- He thong Ngan hang Don gian ---" << std::endl;
+    std::cout << "--- He Thong Ngan Hang Don Gian ---" << std::endl;
     displayBalance(myBalance);
 
     // Thu nap tien
