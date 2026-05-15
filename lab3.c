@@ -1,1 +1,1 @@
-printf("Version: Phiên bản khởi tạo");
+printf("Version: Phiên bản gây ra conflic");
