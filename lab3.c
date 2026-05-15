@@ -1,1 +1,1 @@
-printf("Version 1: Bản gốc");
+printf("Version 1: Bản thứ 2");
