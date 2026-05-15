@@ -4,7 +4,7 @@
 int main()
 {
     //Khởi tạo số tiền ban đầu
-    double myBalance = 1000000000;
+    int  myBalance = 1000000000;
 
     std::cout << "--- He Thong Ngan Hang Don Gian ---" << std::endl;
     displayBalance(myBalance);

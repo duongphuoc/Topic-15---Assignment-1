@@ -1,2 +1,5 @@
+<<<<<<< HEAD
 printf("Version: Phiên bản gây ra conflic");
+=======
 printf("Version 1: Bản thứ 2");
+>>>>>>> crete-conflic
